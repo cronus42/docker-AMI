@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:kinetic
 MAINTAINER John Costa <john.costa@gmail.com>
 
 RUN apt-get update
