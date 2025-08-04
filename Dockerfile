@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM ubuntu:24.10
 MAINTAINER John Costa <john.costa@gmail.com>
 
 RUN apt-get update
